@@ -1,0 +1,4 @@
+gym[classic-control]
+numpy
+torch
+stable-baselines3
