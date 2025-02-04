@@ -27,7 +27,7 @@ This repository is a collection of reinforcement learning projects, starting fro
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/reinforcement-learning.git
+   git clone https://github.com/vedantLotankar/reinforcement-learning.git
    ```  
 2. Explore the projects as they are added.  
 3. Contribute or suggest improvements via pull requests.  
@@ -38,7 +38,7 @@ This repository is a collection of reinforcement learning projects, starting fro
 
 Feel free to connect or discuss anything related to reinforcement learning! 🤝  
 
-📧 Email: [your-email@example.com](mailto:lotankarvedant3@gmail.com)
+📧 Email: [lotankarvedant3@gmail.com](mailto:lotankarvedant3@gmail.com)
 
 <br/>
 
