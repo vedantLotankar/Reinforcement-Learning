@@ -6,6 +6,8 @@ Welcome to the **Pendulum-v1** reinforcement learning project! 🚀 This reposit
 
 ## 🎯 Project Overview  
 
+Still using CPU instead of CUDA, Will change that this saturday
+
 The goal of this project is to train an agent to balance and swing up a **pendulum** using reinforcement learning techniques. The **Pendulum-v1** environment is a classic control problem where the agent applies torque to keep the pendulum upright.  
 
 - **Environment:** OpenAI Gym - Pendulum-v1  
@@ -24,15 +26,7 @@ The goal of this project is to train an agent to balance and swing up a **pendul
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
-   ```  
-3. Run the training script:  
-   ```bash
-   python train.py
-   ```  
-4. Evaluate the trained model:  
-   ```bash
-   python evaluate.py
-   ```  
+   ```   
 
 <br/>
 
