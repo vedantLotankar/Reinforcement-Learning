@@ -2,7 +2,7 @@ import gym
 from stable_baselines3 import PPO
 
 # Load the trained model
-model = PPO.load("Reinforcement-Learning/Pendulum-v1/ppo_pendulum")
+model = PPO.load("Reinforcement-Learning/Pendulum-v1/git ppo_pendulum")
 
 # Create the Pendulum environment with rendering
 env = gym.make("Pendulum-v1", render_mode="human")
