@@ -1,0 +1,5 @@
+gymnasium[box2d]
+numpy
+torch
+stable-baselines3
+matplotlib
