@@ -1,7 +1,7 @@
 import gymnasium as gym
 from stable_baselines3 import DQN
 
-model = DQN.load("Reinforcement-Learning/LunarLander-v3/dqn_lunarlander")
+model = DQN.load("Reinforcement-Learning/LunarLander-v3/dqn_lunar_lander_v3")
 
 env = gym.make("LunarLander-v3", render_mode = "human")
 

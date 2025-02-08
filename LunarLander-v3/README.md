@@ -26,7 +26,7 @@ The objective of this project is to train an agent to land a lunar module safely
 
 ## 📈 Future Improvements  
 
-- Experiment with different RL algorithms like **DQN, PPO, A2C** 🎯  
+- Experiment with different RL algorithms like **DQN, A2C** 🎯  
 - Tune hyperparameters for better stability and efficiency  
 - Implement visualization tools to track training progress 📊  
 
